@@ -41,9 +41,14 @@ docker-images
 
 ## K8s commands
 
-Criando deploy Spring/Minikube
+Criando deploy Spring/Minikube por comando
 ```bash   
 kubectl create deployment fortunecookie --image=srlopes/fortunecookie:v1  
+``` 
+
+Criando deploy Spring/Minikube pelo arquivo .yml
+```bash   
+kubectl create -f application.yml
 ``` 
 
 Liberando acesso da porta 8080 para a aplicação
