@@ -2,6 +2,8 @@
 
 https://phoenixnap.com/kb/install-minikube-on-ubuntu : Instalando minikube no Linux
 
+https://docs.docker.com/engine/install/ubuntu/ : Instalando Docker no Linux
+
 ## Minikube commands
 
  Iniciando minikube
