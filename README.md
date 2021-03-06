@@ -13,7 +13,7 @@ minikube start
 
 Abrindo aplicação do POD
 ```bash 
-minikube service <POD> : 
+minikube service <POD>
 ``` 
 
 Abrindo dashboard do minikube
