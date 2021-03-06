@@ -41,7 +41,7 @@ docker-images
 
 ## K8s commands
 
-Criando deploy Spring/Minibube
+Criando deploy Spring/Minikube
 ```bash   
 kubectl create deployment fortunecookie --image=srlopes/fortunecookie:v1  
 ``` 
