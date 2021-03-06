@@ -1,7 +1,13 @@
 # Anotações-esK8s
 
 ## Minikube commands
-minikube service <POD>
+
+minikube start : iniciando minikube
+
+minikube service <POD> : Abrindo aplicação
+  
+minikube dashboard  : abrindo dashboard do minikube
+
 
 ## Docker commands
 
