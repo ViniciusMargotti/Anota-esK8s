@@ -1,4 +1,4 @@
-# Anotações-esK8s
+# Anotações-K8s
 
 https://phoenixnap.com/kb/install-minikube-on-ubuntu : Instalando minikube no Linux
 
