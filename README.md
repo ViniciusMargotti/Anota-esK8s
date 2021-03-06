@@ -9,8 +9,9 @@ https://phoenixnap.com/kb/install-minikube-on-ubuntu : Instalando minikube no Li
 minikube start 
 ``` 
 
+Abrindo aplicação do POD
 ```bash 
-minikube service <POD> : Abrindo aplicação
+minikube service <POD> : 
 ``` 
 
 abrindo dashboard do minikube
