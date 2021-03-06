@@ -4,6 +4,12 @@ https://phoenixnap.com/kb/install-minikube-on-ubuntu : Instalando minikube no Li
 
 https://docs.docker.com/engine/install/ubuntu/ : Instalando Docker no Linux
 
+
+## Levando uma aplicação Java até o Kubernetes
+
+https://deviniciative.wordpress.com/2020/06/02/hands-on-levando-uma-aplicacao-java-ate-o-kubernetes/
+
+
 ## Minikube commands
 
  Iniciando minikube
